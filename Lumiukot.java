@@ -17,6 +17,7 @@ public class Lumiukot {
 
 	/**
 	 *
+   *
 	 */
 	public static void lumiukot(EasyWindow w, double x, double y, double isonPallonSade) {
 		double keskiPallonSade = 15;
