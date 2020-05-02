@@ -1,0 +1,36 @@
+package l5;
+
+import fi.jyu.mit.graphics.EasyWindow;
+
+/**
+ * Luokka, jossa harjoitellaan piirtely√§ EasyWindow-luokkaa k√§ytt√§m√§ll√§
+ * @author Veli-Matti Tornikoski
+ * @version 26.1.2015
+ */
+public class Lumiukko2 {
+
+    /**
+     * Piirret‰‰n lumiukko niin ett‰ iso pallo paikassa x,y
+     * @param w ikkuna johon piirret‰‰n
+     * @param x ison pallon x koordinaatti
+     * @param y ison pallon y koordinaatti
+     * @param r ison pallon s‰de
+     */
+    public static void lumiukko(EasyWindow w, double x, double y, double r ) {
+        w.addCircle(x,y-2*15-20-10,10);
+        w.addCircle(x,y-15-20,15);
+        w.addCircle(x,y,r);
+    }
+
+    /**
+     * @param args
+     */
+
+    public static void main( String[] args) {
+        EasyWindow window = new EasyWindow();
+
+        lumiukko(window, 70, 90, 30);
+        lumiukko(window, 100, 90, 50);
+        lumiukko(window, 300, 40, 30);
+    }
+}
