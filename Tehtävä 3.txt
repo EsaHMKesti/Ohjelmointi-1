@@ -1,0 +1,28 @@
+int mansikanKiloHinta;
+On syntaktisesti oikein ja informatiivinen. Mielstäni ihan hyvä valinta.
+
+double first,second,final;
+Syntaktisesti väärin, Final on varattu sana. Tästä syystä huono valinta.
+
+char omaNimi;
+Syntaktisesti oikein ja hyvin kuvaava.
+
+double metriMm;
+Syntaktisesti oikein, mutta epäselvä, mielestäni huono valinta.
+
+double tuntejaVuorokaudessa;
+Syntaktisesti oikein ja hyvin kuvaava. Hyvä valinta.
+
+real nopeus;
+
+
+double AuringonEtaisyys;
+Hyvä valinta koska double:een voi sisältää yhteensä 64bittiä, kuvaa hyvin myös käyttöä.
+
+int kuukaudenKeskiLampo:
+Huono valinta koska int sisältää voi sisältää vain reaali lukuja.
+
+int kissoja,2_kanaa,kolmeKoiraa;
+
+
+int i,j,l,I;

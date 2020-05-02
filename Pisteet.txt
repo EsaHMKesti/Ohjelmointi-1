@@ -1,0 +1,18 @@
+TIEDOSTO                TEHTÄVÄ    PISTEET   KOMMENTTI
+=====================================================================
+
+Muutujat.java   	          2        1      Mielenkiintoinen tehtävä, hyvin kuvastaa muuttujien nimeämistä
+
+Tehtävä_3.txt		            3	       0.8    Pari muuttujaa jäi selvittämättä, en ollut ihan varma tuosta real muuttujasta, että onko se validi muuttuja javassa
+
+FahrenheitToCelsius.java    4        1      Tämä aiheutti hieman harmaita hiuksia, mutta sain lopulta tulostettua oikean arvon, ongelmana oli juurikin tuo tulostaminen ja arvon saaminen oikeaan paikkaan.
+
+
+Aritmeettiset.java           6 	     1	    Mukava tehtävä jossa sai tehdä hieman matikkaa
+
+			                       5	     0	    Tehtävänanto ei auennut laisinkaan,
+
+SyötteenLukeminen.java       B1      1      Mukava tehtävä, hyviä esimerkkejä luento monisteessa tarjolla.
+
+YHTEENSÄ: 4,8
+=====================================================================
